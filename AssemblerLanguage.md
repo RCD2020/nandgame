@@ -1,3 +1,4 @@
+# Destination
 <table>
     <tr>
         <th>Opcode</th>
@@ -52,7 +53,9 @@
         <th>1</th>
     </tr>
 </table>
-<br>
+<br><br><hr>
+
+# Calculation
 <table>
     <tr>
         <th>Opcode</th>
@@ -211,9 +214,9 @@
         <th>0</th>
     </tr>
 </table>
+<br><br><hr>
 
-<br>
-
+# Jump-condition
 <table>
     <tr>
         <th>Opcode</th>
